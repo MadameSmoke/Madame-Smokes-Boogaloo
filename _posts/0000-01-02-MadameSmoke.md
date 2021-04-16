@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>_Whoever wins becomes Justice_
+**Doflamingo, One Piece**
 Use the left arrow to go back!
